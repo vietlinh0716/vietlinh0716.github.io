@@ -4,8 +4,9 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Data Analysis](/sample_page)
+<img src="images/instant_book_city.png"/>
+- Data analysis on AirBnB listings
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
