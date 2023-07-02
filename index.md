@@ -7,23 +7,19 @@
    Build a machine learning model to help an eCommerce company in New York to decide which factors help generate more revenue from their customers and to decide if they should focus their resources to develope the website or the app.
 <br>
 
-- [Advertisement -  Logistic Regression Project](https://github.com/vietlinh0716/ds-advertisement-logistics-regression)
-<br>
-  Create a machine learning model which will predict if a customer will click on the company's ads based on the customer's features information.
-<br>
-
-- [K Nearest Neighbors Project](https://github.com/vietlinh0716/ds-k-nearest-neighbors)
-<br>
-  Build a machine learning to classify data into binary category based on their features.
+- [Advertisement -  Logistic Regression Project](https://github.com/vietlinh0716/ds-advertisement-logistics-regression)<br>
+   Create a machine learning model which will predict if a customer will click on the company's ads based on the customer's features information.
 <br>
 
-- [LendingClub - Decision Tree & Random Forest](https://github.com/vietlinh0716/ds-lendingclub-decisiontree-randomforest)
-<br>
-  Use the data from the LendingClub data set and build a model to predict if a lender will pay back their loands in full based on the lender's information.
+- [K Nearest Neighbors Project](https://github.com/vietlinh0716/ds-k-nearest-neighbors)<br>
+   Build a machine learning to classify data into binary category based on their features.
 <br>
 
-- [MovieLens - Recommender System](https://github.com/vietlinh0716/ds-movielens-recommender-system)
+- [LendingClub - Decision Tree & Random Forest](https://github.com/vietlinh0716/ds-lendingclub-decisiontree-randomforest)<br>
+   Use the data from the LendingClub data set and build a model to predict if a lender will pay back their loands in full based on the lender's information.
 <br>
+
+- [MovieLens - Recommender System](https://github.com/vietlinh0716/ds-movielens-recommender-system)<br>
    Create a recommender system to recommend similar movies based on the similarity of viewer's feedback and ratings.
 <br>
 ---
