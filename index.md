@@ -26,40 +26,40 @@
 
 ### Data Analysis 
 
-[Data analysis on AirBnB listings](https://github.com/vietlinh0716/data-analysis-airbnb)
+[Data Analysis on AirBnB listings](https://github.com/vietlinh0716/data-analysis-airbnb)
 <br>
 Use the AirBnB data set to discover the distinctive features among the listings in different cities in the world.
 <img src="images/instant_book_city.png"/>
-<br>
+
 ---
 
 [Movie EDA](https://github.com/vietlinh0716/data-analysis-movie-eda)
 <br>
 Create an analysis on the factors that can help make a successful movie, including: budget, genre, release time.
 <img src="images/ProfitbyMonthbyGenre.png"/>
-<br>
+
 ---
 
 ### Data Visualization with Tableu
+
 [Superstore Dashboard: Sales Agents Tracker](https://public.tableau.com/views/Superstore_16870789705640/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 <br>
 Superstore has sales agents in every state in the US. Create a dashboard to track how well the sales agents are doing this year and compared to last year. The dashboard also contains information of the best selling categories and products.
 <img src="images/Dashboard 1.png"/>
-<br>
+
 ---
 
 [HR Analytics](https://public.tableau.com/views/HRAnalytics_16870283033890/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 <br>
 Create a dashboard to snalyze the trends or patterns among the employees leaving the company and which factor: age, years at the company or income plays a part in determining if the employees leave or not.
 <img src="images/HR dashboard.png"/>
-<br>
+
 ---
 
 [Discount Mart: Sales and Profit Analytics](https://public.tableau.com/views/DiscountMart_16870212233610/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 <br>
 Create a dashboard to track how well the Discount Mart is doing this year - in terms of Sales, Profit and Quantity Sold. The information about the performance of different categories and regions also shown in the dashboard.
 <img src="images/Discount Mart.png"/>
-<br>
 
 ---
 
@@ -67,6 +67,6 @@ Create a dashboard to track how well the Discount Mart is doing this year - in t
 <br>
 Analyze the trends of the Tesla stock price, specially the last 3 months. Information included in the dashboard: the average monthly stock price, daily closing figures and volume of stock traded.
 <img src="images/Tesla stock.png"/>
-<br>
+
 ---
 <p style="font-size:11px"></p>
